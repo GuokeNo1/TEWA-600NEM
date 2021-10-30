@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEWA-600NEM", "TEWA-600NEM\TEWA-600NEM.csproj", "{7C94B3EE-7EC3-4AA5-85BE-68E9579ACD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C94B3EE-7EC3-4AA5-85BE-68E9579ACD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C94B3EE-7EC3-4AA5-85BE-68E9579ACD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C94B3EE-7EC3-4AA5-85BE-68E9579ACD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C94B3EE-7EC3-4AA5-85BE-68E9579ACD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441F379C-0048-4852-89A9-DB2F78D046EB}
+	EndGlobalSection
+EndGlobal

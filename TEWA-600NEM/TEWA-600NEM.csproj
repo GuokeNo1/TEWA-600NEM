@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TEWA_600NEM</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibModemBase">
+      <HintPath>..\..\..\..\Documents\GitHub\ModemHacker\ModemBase\bin\Release\netcoreapp3.1\LibModemBase.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>
